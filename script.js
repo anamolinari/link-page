@@ -17,14 +17,14 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos de sol e jaqueta preta, sorrinho e fundo azul e roxo."
+      "Foto de Ana Molinari em preto e branco, de frente, sorrindo, cabelo preso e camisa branca"
     )
   } else {
     // Se tiver sem light mode, manter a imagem normal
     img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo."
+      "Foto de Ana Molinari em preto e branco, rosto inclinado, sorrindo, cabelo preso e camisa branca"
     )
   }
 }

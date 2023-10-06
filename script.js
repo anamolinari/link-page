@@ -14,14 +14,14 @@ function toggleMode() {
   // Subsituir a imagem
   if (html.classList.contains("light")) {
     // Se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/avatar-ana-light.png")
     img.setAttribute(
       "alt",
       "Foto de Ana Molinari em preto e branco, de frente, sorrindo, cabelo preso e camisa branca"
     )
   } else {
     // Se tiver sem light mode, manter a imagem normal
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatar-ana.png")
     img.setAttribute(
       "alt",
       "Foto de Ana Molinari em preto e branco, rosto inclinado, sorrindo, cabelo preso e camisa branca"

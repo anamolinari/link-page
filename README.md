@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- <a href="https://anamolinari.github.io/projeto-discover/" target="_blank">Acesse o projeto finalizado, online.</a>
+- [Acesse o projeto finalizado, online.](https://anamolinari.github.io/projeto-discover/) 
 
 ## 🔖 Layout
 

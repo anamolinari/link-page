@@ -1,44 +1,46 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Link Page </h1>
 
 <p align="center">
-Programa criado durante as aulas do curso de introdução à tecnologia da Rocketseat.</p>
+Project created during Rocketseat's Introduction to Technology course.</p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+<div align="center">
+<img width="1910" alt="link-page-ana-molinari" src="https://github.com/anamolinari/projeto-discover/assets/121121296/319290e1-9983-46c5-8a65-ad0325c24365">
+</div>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+## Project description
 
-<br>
+<p align="justify">
+During my journey in Rocketseat's Introduction to Technology course, I was able to apply my knowledge in developing a significant project: a page for storing links.
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+This page not only offers a responsive interface, adapting to different devices, but also provides a personalized visual experience with the option to switch between dark and light modes. Furthermore, to enhance usability, the links are configured to open in a new browser tab.
 
-## 🚀 Tecnologias
+Another interesting feature of the project is the dynamic change of the avatar and background, which accompany the selected theme, adding a touch of personalization and fluidity to the user experience.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Throughout the development of this page, I faced various challenges that encouraged me to enhance my skills in HTML, CSS, and JavaScript. From creating the basic structure to implementing advanced features like dark mode/light mode and integrating the dynamic avatar, each step represented an opportunity for learning and growth.
+
+This project not only demonstrates my mastery of fundamental web technologies but also reflects my commitment to providing practical and innovative solutions to enhance the user experience on the internet.
+
+## Features
+
+- The page adapts to different devices, ensuring a consistent experience across various screen sizes.
+- Links are configured to open in a new browser tab, enhancing usability and navigation.
+- Users can choose between two theme options: dark and light, for a personalized visual experience.
+- The avatar and background dynamically change according to the selected theme, adding customization to the user experience.
+
+## Tools used
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+###
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+## Project access
 
-- [Acesse o projeto finalizado, online.](https://anamolinari.github.io/projeto-discover/) 
+To access the project's source code, please [click here](https://anamolinari.github.io/link-page/).
 
-## 🔖 Layout
+Additionally, you can review the layout on Figma by [clicking here](https://www.figma.com/community/file/1187422022288947321).
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+## Developer
+[Ana Molinari](https://www.linkedin.com/in/anahmolinari/)

@@ -4,7 +4,7 @@
 Project created during Rocketseat's Introduction to Technology course.</p>
 
 <div align="center">
-<img width="1910" alt="link-page-ana-molinari" src="https://github.com/anamolinari/projeto-discover/assets/121121296/319290e1-9983-46c5-8a65-ad0325c24365">
+<img src="https://i.imgur.com/5zaFZ6Y.gif">
 </div>
 
 ## Project description

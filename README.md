@@ -4,7 +4,7 @@
 Project created during Rocketseat's Introduction to Technology course.</p>
 
 <div align="center">
-<img src="https://i.imgur.com/5zaFZ6Y.gif">
+<img src="https://i.imgur.com/QMyolrn.gif">
 </div>
 
 ## Project description

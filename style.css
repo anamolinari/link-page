@@ -29,13 +29,16 @@ body * {
   color: var(--text-color);
 }
 
+html,
 body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: var(--bg-url) no-repeat top center/cover;
-  /*background-image: url(./assets/bg-mobile.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;*/
-  height: 100vh;
 }
 
 #container {

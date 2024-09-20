@@ -10,9 +10,9 @@ Project created during Rocketseat's Introduction to Technology course.</p>
 ## Project description
 
 <p align="justify">
-During my journey in Rocketseat's Introduction to Technology course, I was able to apply my knowledge in developing a significant project: a page for storing links.
+During my journey in Rocketseat's Introduction to Technology course, I was able to apply my knowledge to develop a significant project: a page for storing links.
 
-This page not only offers a responsive interface, adapting to different devices, but also provides a personalized visual experience with the option to switch between dark and light modes. Furthermore, to enhance usability, the links are configured to open in a new browser tab.
+This page not only offers a responsive interface that adapts to different devices but also provides a personalized visual experience with the option to switch between dark and light modes. Furthermore, to enhance usability, the links are configured to open in a new browser tab.
 
 Another interesting feature of the project is the dynamic change of the avatar and background, which accompany the selected theme, adding a touch of personalization and fluidity to the user experience.
 
@@ -29,9 +29,9 @@ This project not only demonstrates my mastery of fundamental web technologies bu
 
 ## Tools used
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
 ###

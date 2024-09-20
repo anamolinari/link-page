@@ -7,7 +7,7 @@ Project created during Rocketseat's Introduction to Technology course.</p>
 <img src="https://i.imgur.com/QMyolrn.gif" width="800" >
 </div>
 
-## Project description
+## Project Description
 
 <p align="justify">
 During my journey in Rocketseat's Introduction to Technology course, I was able to apply my knowledge to develop a significant project: a page for storing links.
@@ -27,7 +27,7 @@ This project not only demonstrates my mastery of fundamental web technologies bu
 - Users can choose between two theme options: dark and light, for a personalized visual experience.
 - The avatar and background dynamically change according to the selected theme, adding customization to the user experience.
 
-## Tools used
+## Tools Used
 
 - HTML and CSS
 - JavaScript
@@ -36,7 +36,7 @@ This project not only demonstrates my mastery of fundamental web technologies bu
 
 ###
 
-## Project access
+## Project Access
 
 To access the project's source code, please [click here](https://anamolinari.github.io/link-page/).
 

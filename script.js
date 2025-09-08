@@ -12,7 +12,7 @@ function toggleMode() {
     )
     document
       .querySelector('meta[name-"theme-color"]')
-      .setAttribute("content", "#FFFFFF")
+      .setAttribute("content", "#FAF6F6")
   } else {
     img.setAttribute("src", "./assets/avatar-ana.png")
     img.setAttribute(
@@ -22,7 +22,7 @@ function toggleMode() {
 
     document
       .querySelector('meta[name="theme-color"]')
-      .setAttribute("content", "#000000")
+      .setAttribute("content", "#3D3836")
   }
 
   window.addEventListener("DOMContentLoaded", () => {
@@ -30,10 +30,9 @@ function toggleMode() {
     const meta = document.querySelector('meta[name="theme-color"]')
 
     if (html.classList.contains("light")) {
-      meta.setAttribute("content", "#ffffff")
+      meta.setAttribute("content", "#FAF6F6")
     } else {
-      meta.setAttribute("content", "#000000")
+      meta.setAttribute("content", "#3D3836")
     }
   })
-
 }

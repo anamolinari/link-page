@@ -5,7 +5,7 @@ Responsive link page with dark/light theme, dynamic avatar, and background switc
 
 <div align="center">
     <a href="https://link-page-xi.vercel.app/">
-        <img src="https://github.com/user-attachments/assets/b9ab2a74-50b5-4749-a400-8e3a166ee68f" width="800">
+        <img src="https://github.com/user-attachments/assets/4e97f2ee-1d82-47b8-bd19-6669b9b645fe" width="800">
     </a>
 </div>
 </br>

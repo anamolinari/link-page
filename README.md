@@ -1,46 +1,53 @@
-<h1 align="center"> Link Page </h1>
-
+<h1 align="center">Link Page</h1>
 <p align="center">
-Project created during Rocketseat's Introduction to Technology course.</p>
+Responsive link page with dark/light theme, dynamic avatar, and background switching.
+</p>
 
 <div align="center">
-<img src="https://s8.ezgif.com/tmp/ezgif-8c149da84364a2.gif" width="800" >
+    <a href="https://link-page-xi.vercel.app/">
+        <img src="" width="800">
+    </a>
+</div>
+</br>
+<div align="center">
+  <a href="https://link-page-xi.vercel.app/">Live Demo</a>
 </div>
 
-## Project Description
+## About
 
 <p align="justify">
-During my journey in Rocketseat's Introduction to Technology course, I was able to apply my knowledge to develop a significant project: a page for storing links.
+Pixel-perfect implementation of a Figma design, built with vanilla HTML, CSS, and JavaScript. Features a dark/light theme toggle with dynamic avatar and background changes that adapt to the selected theme.
+</p>
 
-This page not only offers a responsive interface that adapts to different devices but also provides a personalized visual experience with the option to switch between dark and light modes. Furthermore, to enhance usability, the links are configured to open in a new browser tab.
-
-Another interesting feature of the project is the dynamic change of the avatar and background, which accompany the selected theme, adding a touch of personalization and fluidity to the user experience.
-
-Throughout the development of this page, I faced various challenges that encouraged me to enhance my skills in HTML, CSS, and JavaScript. From creating the basic structure to implementing advanced features like dark mode/light mode and integrating the dynamic avatar, each step represented an opportunity for learning and growth.
-
-This project not only demonstrates my mastery of fundamental web technologies but also reflects my commitment to providing practical and innovative solutions to enhance the user experience on the internet.
+---
 
 ## Features
 
-- The page adapts to different devices, ensuring a consistent experience across various screen sizes.
-- Links are configured to open in a new browser tab, enhancing usability and navigation.
-- Users can choose between two theme options: dark and light, for a personalized visual experience.
-- The avatar and background dynamically change according to the selected theme, adding customization to the user experience.
+- Dark and light theme toggle
+- Dynamic avatar and background that change according to the selected theme
+- All links open in a new browser tab
+- Fully responsive layout across all screen sizes
 
-## Tools Used
+---
 
-- HTML and CSS
+## Tech Stack
+
+- HTML
+- CSS
 - JavaScript
-- Git and Github
-- Figma
 
-###
+---
 
-## Project Access
+## Getting Started
 
-To access the project's source code, please [click here](https://anamolinari.github.io/link-page/).
+Clone the repository and open `index.html` in your browser — no dependencies required.
 
-Additionally, you can review the layout on Figma by [clicking here](https://www.figma.com/community/file/1187422022288947321).
+```bash
+git clone https://github.com/anamolinari/link-page.git
+```
+
+---
 
 ## Developer
-[Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
+
+Developed by [Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
